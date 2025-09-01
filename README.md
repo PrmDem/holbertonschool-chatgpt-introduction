@@ -1,1 +1,3 @@
 # holbertonschool-chatgpt-introduction
+Instead of disturbing busy colleagues, developpers can now ask AI where they went wrong. This can save them time, energy, and ego, as artificial intelligence will not judge them for forgetting to initialise their variables... _again_.<br/>
+To ensure we at least know the very basics of requesting help from AI, the Holberton School curriculum provided us with some tasks to debug with the help of ChatGPT. They can all be found in the `debugging` folder.<br/>
